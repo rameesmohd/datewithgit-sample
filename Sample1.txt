@@ -3,3 +3,6 @@ my first edit
 edited for the feature branch 
 
 second answer for conflict
+
+edit for conflict
+
